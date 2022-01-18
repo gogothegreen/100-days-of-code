@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 11, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Made a plan for the project: Python projects + R projects + Web apps using Odin
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting a project requires some time spent in thinking. Doing someone else's projects is not a very helpful learning experience. Hence, I have to think my own projects, however difficult it is to do so.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 17, 2022
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Started the **Biofetch** project, a tool to retrieve biological information from the web. Wrote functions to get user input and fetch data from Wikipedia. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** This was fun and a much better learning experience. Will add other functionality over the next few days, including NCBI, Swissprot, etc. Note to self: The long delay since starting this was due to couple of interviews in between.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: January xx, 2022
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: 
+
+**Thoughts:** 
 
 
-### Day 1: June 27, Monday
+### Day 3: January xx, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** 
