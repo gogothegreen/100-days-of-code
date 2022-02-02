@@ -53,8 +53,66 @@
 
 ### Day 9: January 31, 2022
 
-**Today's Progress**: Did some more R exercises from "Computational Genomics with R".
+**Today's Progress**: 1. Did some more R exercises from "Computational Genomics with R". 2. Published a markdown page GitHub pages, rendered as a static site by Jekyll. Next step is to create a personal website + blog hosted from my Github.
 
-**Thoughts:** This was a bit more involved. It was easy but tok me time because I have lost familiarity with the syntax.
+**Thoughts:** 1. This was a bit more involved. It was easy but took me time because I have lost familiarity with the syntax. 2. This was fun to get it working.
 
+### Day 10: February 1, 2022
 
+**Today's Progress**: Worked on CSS basics. Did some more R exercises.
+
+**Thoughts:** CSS was easy to understand. It was much more fun, not much syntax troubles with R.
+
+### Day 11: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 12: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 13: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 14: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 15: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 16: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 17: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 18: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 19: February 1, 2022
+
+**Today's Progress**: 
+
+**Thoughts:** 
